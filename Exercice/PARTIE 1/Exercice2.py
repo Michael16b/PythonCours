@@ -1,5 +1,7 @@
 """
 Sujet : Import de module interne, Debug, Appel de fonction
+Correction + Explication du sujet --> https://youtu.be/TZmfoBFCKPQ
+https://youtu.be/-YSoaKdaj7g
 """
 import datetime
 

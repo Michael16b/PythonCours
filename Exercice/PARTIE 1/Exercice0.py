@@ -1,5 +1,6 @@
 """
 Aujourd'hui, vous allez apprendre à créer vos additions, soustractions et multiplication
+Voilà une petite vidéo pour résumer un peu la base de python : https://youtu.be/yGK3DB0oYyg
 """
 
 

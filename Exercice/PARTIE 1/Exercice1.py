@@ -20,6 +20,8 @@ Consommation : 4.2L/100km == 7.93€/100km
 Résultat trouvé sur calculatrice
 prix pour 100km = 7.93€
 prix_final = 83.50€
+
+Une correction + des idées pour mieux comprendre est dispo sur YT : https://youtu.be/yGK3DB0oYyg
 """
 
 #Créer une fonction qui trouve le prix final et dit celui-ci dépasse son budget ou pas
